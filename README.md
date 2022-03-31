@@ -1,2 +1,2 @@
 # md_images
-store md images
+用来存储MD的图片
